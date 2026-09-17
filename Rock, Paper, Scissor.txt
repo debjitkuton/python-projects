@@ -40,12 +40,4 @@ while word == "scissor":
 	elif x == "paper":
 		print("I chose scissor.")
 		print("You lost")
-		break		
-	
-	
-	
- 
-
-
-
-
+		break
